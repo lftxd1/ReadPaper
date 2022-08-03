@@ -1,0 +1,5 @@
+An adaptive graph learning method for automated molecular interactions and properties predictions
+Improving de novo molecular design with curriculum learning
+Molecular contrastive learning of representations via graph neural networks
+A transformer-based model to predict peptide–HLA class I binding and optimize mutated peptides for vaccine design
+https://www.nature.com/natmachintell/research-articles NMI上面的一些论文可以去读一读
